@@ -1,0 +1,10 @@
+export const WHITE='#fff';
+export const BLACK= '#000';
+export const PINK='#FF00B8';
+export const BLUE ='#07F';
+export const RED ='#FB3F1C';
+export const GREY= '#9B8B97';
+export const LIGHT_GREY='#f2f2f7';
+export const PURPLE='#9E00FF';
+export const LIGHT_PURPLE='#c466ff'
+export const DARK_BLUE='#393E5D';
